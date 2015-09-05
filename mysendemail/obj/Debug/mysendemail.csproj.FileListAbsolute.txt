@@ -1,0 +1,7 @@
+c:\users\arvind\documents\visual studio 2013\Projects\mysendemail\mysendemail\bin\Debug\mysendemail.exe.config
+c:\users\arvind\documents\visual studio 2013\Projects\mysendemail\mysendemail\bin\Debug\mysendemail.exe
+c:\users\arvind\documents\visual studio 2013\Projects\mysendemail\mysendemail\bin\Debug\mysendemail.pdb
+c:\users\arvind\documents\visual studio 2013\Projects\mysendemail\mysendemail\bin\Debug\EASendMail45.dll
+c:\users\arvind\documents\visual studio 2013\Projects\mysendemail\mysendemail\obj\Debug\mysendemail.csprojResolveAssemblyReference.cache
+c:\users\arvind\documents\visual studio 2013\Projects\mysendemail\mysendemail\obj\Debug\mysendemail.exe
+c:\users\arvind\documents\visual studio 2013\Projects\mysendemail\mysendemail\obj\Debug\mysendemail.pdb
